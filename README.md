@@ -1,1 +1,1 @@
-This is the ai theft system using yolov8
+This is the ai theft detection system using yolov8
